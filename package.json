@@ -11,6 +11,7 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
+    "primevue": "^4.0.0-beta.1",
     "vue": "^3.4.21"
   },
   "devDependencies": {
